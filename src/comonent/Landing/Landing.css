@@ -1,0 +1,18 @@
+.landing-title {
+font-family: 'Righteous';
+
+font-size: 50px;
+line-height: 52px;
+text-align: center;
+letter-spacing: -0.4px;
+color: #1E0E62;
+}
+
+.landing-para {
+font-size: 24px;
+line-height: 32px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #8C8C8C;
+}
